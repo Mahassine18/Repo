@@ -6,7 +6,7 @@ public class file1 {
 		System.out.println(S);
 	}
 	public static void main (String arg[]){
-		System.out.println("Bonjour tout le monde");
+		
 		
 	
 	}
