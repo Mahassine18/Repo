@@ -6,7 +6,7 @@ public class file1 {
 		System.out.println(S);
 	}
 	public static void main (String arg[]){
-		
+		add(3,5);
 		
 	
 	}
