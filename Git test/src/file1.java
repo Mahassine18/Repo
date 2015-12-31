@@ -8,7 +8,7 @@ public class file1 {
 	public static void main (String arg[]){
 		add(3,5);
 		
-		System.out.println("Bonjour tout le monde");
+		
 		
 	
 	}
